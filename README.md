@@ -1,0 +1,5 @@
+
+===
+What is Yamashitacoin?
+Yamashita's gold. We name it Yamashitacoin, also referred to as the Yamashita treasure, is the name given to the alleged war loot stolen in Southeast Asia by Japanese forces during World War II and hidden in caves, tunnels and underground complexes in the Philippines. It is named for the Japanese general Tomoyuki Yamashita, nicknamed "The Tiger of Malaya". Though accounts that the treasure remains hidden in Philippines have lured treasure hunters from around the world for over fifty years, its existence is dismissed by most experts. The rumored treasure has been the subject of a complex lawsuit that was filed in a Hawaiian state court in 1988 involving a Filipino treasure hunter, Rogelio Roxas, and the former Philippine president, Ferdinand Marcos.
+Yamashitacoin is an innovative, secure and energy efficient PoW/PoS coin. It uses a faster PoW distribution mechanism to distribute the initial coins, then after 14 days the coin is basically transferred to a pure PoS coin, where the generation of the coin is mainly through the PoS interests. PoS interest 10% annually.
